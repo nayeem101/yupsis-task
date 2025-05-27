@@ -5,6 +5,7 @@ This repository contains solutions for multiple problems implemented in JavaScri
 ## Running JavaScript Solutions
 
 ### Problem 1 & 2
+
 To run the standalone JavaScript solutions for problems 1 and 2, use Node.js:
 
 ```bash
@@ -20,18 +21,25 @@ node problem2-solution.js
 To run the backend server for Problem 3:
 
 1. Navigate to the backend directory:
+
 ```bash
 cd problem3-backend
 ```
 
 2. Install dependencies:
+
 ```bash
 npm install
 ```
 
 3. Start the server:
+
 ```bash
 node server.js
 ```
 
-The server will start running and you can then open `problem3-solution.html` in your web browser to interact with the application.
+The server will start running
+
+### Problem 3 frontend simulated
+
+you can then open `problem3-solution.html` in your web browser to interact with the application.
